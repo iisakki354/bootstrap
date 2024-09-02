@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
     }
 
-    showButton.addEventListener('click', () => {
+    showButton.addEventListener('click', () => {     /* ok */
         dialog.showModal();
     });
 
